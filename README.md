@@ -14,7 +14,6 @@ For the backend I used Java and I built 3 classes:
 I knew how to work with Java but I encoountered some problems/bugs when I implemented the class that restructure the files.
 
 - Intitial file.
-
 ![](/SS1.png)
 
 - All CVs arranged in a particular format read from intitial file.
