@@ -2,7 +2,7 @@
 
 ## What is does?
 
-:file_cabinet: Pontoon is an command-line Java application. The application is designet to help the employment agencies that receive hundreds of job applications every day. The application read a file containing all of the CVs and displays the potential candidates (based on certain criteria) for the interview process.
+:file_cabinet: Pontoon is a command-line Java application. The application is designed to help the employment agencies that receive hundreds of job applications every day. The application read a file containing all of the CVs and displays the potential candidates (based on certain criteria) for the interview process.
 
 ## :hammer_and_wrench: How I built it?
 For the backend I used Java and I built 3 classes:
