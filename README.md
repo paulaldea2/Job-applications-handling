@@ -12,3 +12,13 @@ For the backend I used Java and I built 3 classes:
 
 ## :crossed_swords: Challenges I ran into
 I knew how to work with Java but I encoountered some problems/bugs when I implemented the class that restructure the files.
+
+- Intitial file.
+
+![](/SS1.png)
+
+- All CVs arranged in a particular format read from intitial file.
+![](/SS2.png)
+
+- Only the candidates that have qualified 
+![](/SS3.png)
